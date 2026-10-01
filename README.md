@@ -1,2 +1,2 @@
-# my-first-project-bahtierg
+# my-first-project-bakhtierg
 Мой первый проект для изучения Git
